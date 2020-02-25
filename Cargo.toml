@@ -1,6 +1,5 @@
 [package]
 authors = ["Jorge Aparicio <jorge@japaric.io>"]
-build = "build.rs"
 description = "Ergonomic, checked cast functions for primitive types"
 documentation = "https://docs.rs/cast"
 keywords = ["checked", "cast", "primitive", "integer", "float"]
